@@ -74,7 +74,7 @@ export default function Contact() {
                         rel="noopener noreferrer"
                         className="text-sm text-text-main transition-colors hover:text-accent"
                       >
-                        github.com/Aimzaa
+                        github.com/AimanKhanDev
                       </a>
                     </dd>
                   </div>

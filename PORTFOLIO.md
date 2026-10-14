@@ -1,7 +1,7 @@
 # Aiman Khan — Portfolio
 
 **Web Developer & AI Agent Builder**  
-📍 Karachi, Pakistan | ✉️ ak0560439@gmail.com | 🔗 [github.com/Aimzaa](https://github.com/Aimzaa)
+📍 Karachi, Pakistan | ✉️ ak0560439@gmail.com | 🔗 [github.com/AimanKhanDev](github.com/AimanKhanDev)
 
 ---
 
@@ -10,84 +10,84 @@
 ### Digital FTE (Personal AI Employee System)
 **Autonomous AI workforce framework** — Multi-channel Watchers, FastMCP Tools, Human-in-the-Loop (HITL) Orchestration, Automated Task Execution.  
 **Tech:** Python, FastMCP, Multi-Agent Orchestration, Event-Driven Architecture, HITL Workflows  
-**Links:** [GitHub](https://github.com/Aimzaa/Hackathon-0-Digital-FTE) | [Hugging Face Space](PASTE_YOUR_HF_SPACE_URL_HERE)
+**Links:** [GitHub](https://github.com/AimanKhanDev/Hackathon-0-Digital-FTE) | [Hugging Face Space](PASTE_YOUR_HF_SPACE_URL_HERE)
 
 ---
 
 ### Decor-Furnish — HAVEN Home & Living
 Premium furniture brand storefront with mega-navigation, animated split-hero, magazine-style product grid, editorial showcase, and fully interactive auth flow with OTP + admin panel.  
 **Tech:** HTML, CSS, JavaScript, Vercel  
-**Live:** [decor-furnish.vercel.app](https://decor-furnish.vercel.app) | [GitHub](https://github.com/Aimzaa/Decor-Furnish)
+**Live:** [decor-furnish.vercel.app](https://decor-furnish.vercel.app) | [GitHub](https://github.com/AimanKhanDev/Decor-Furnish)
 
 ---
 
 ### Physical AI & Humanoid Robotics RAG
 Retrieval-Augmented Generation system answering questions over the Physical AI & Humanoid Robotics book using Qwen embeddings, Qdrant vector search, OpenRouter LLMs, FastAPI backend, and Docusaurus frontend.  
 **Tech:** Python, FastAPI, Qdrant, Qwen, OpenRouter, Docusaurus  
-**Live:** [physical-ai-humanoid-robotics-book.vercel.app](https://physical-ai-humanoid-robotics-book-pi-six.vercel.app) | [GitHub](https://github.com/Aimzaa/physical-ai-humanoid-robotics-book)
+**Live:** [physical-ai-humanoid-robotics-book.vercel.app](https://physical-ai-humanoid-robotics-book-pi-six.vercel.app) | [GitHub](https://github.com/AimanKhanDev/physical-ai-humanoid-robotics-book)
 
 ---
 
 ### Game-Agent
 Multi-agent fantasy RPG on Gemini — Chainlit chat application with cooperating AI agents (narrator, monster, item) and stateful turn-based logic.  
 **Tech:** Python, Chainlit, Gemini API  
-**GitHub:** [github.com/Aimzaa/Game-Agent](https://github.com/Aimzaa/Game-Agent)
+**GitHub:** [github.com/AimanKhanDev/Game-Agent](https://github.com/AimanKhanDev/Game-Agent)
 
 ---
 
 ### Noire-Sage-Fragrance
 Sophisticated dark-mode landing experience for a fragrance brand — expressive typography, immersive hero, refined product storytelling.  
 **Tech:** HTML, CSS, JavaScript  
-**Live:** [noire-sage-fragrance.vercel.app](https://noire-sage-fragrance.vercel.app) | [GitHub](https://github.com/Aimzaa/Noire-Sage-Fragrance)
+**Live:** [noire-sage-fragrance.vercel.app](https://noire-sage-fragrance.vercel.app) | [GitHub](https://github.com/AimanKhanDev/Noire-Sage-Fragrance)
 
 ---
 
 ### Nexus-Store
 E-commerce experience backed by Node.js server and serverless Vercel config, pairing hand-crafted storefront with real API behaviour.  
 **Tech:** HTML, CSS, Node.js, Vercel  
-**Live:** [nexus-store-lime-seven.vercel.app](https://nexus-store-lime-seven.vercel.app) | [GitHub](https://github.com/Aimzaa/Nexus-Store)
+**Live:** [nexus-store-lime-seven.vercel.app](https://nexus-store-lime-seven.vercel.app) | [GitHub](https://github.com/AimanKhanDev/Nexus-Store)
 
 ---
 
 ### Bloom-SkinCare
 Calm, editorial skincare storefront with elegant product presentation and smooth interactive sections.  
 **Tech:** HTML, CSS, JavaScript  
-**Live:** [bloom-skin-care.vercel.app](https://bloom-skin-care.vercel.app) | [GitHub](https://github.com/Aimzaa/Bloom-SkinCare)
+**Live:** [bloom-skin-care.vercel.app](https://bloom-skin-care.vercel.app) | [GitHub](https://github.com/AimanKhanDev/Bloom-SkinCare)
 
 ---
 
 ### Shopping-Store
 Conversion-focused shopping storefront with category flows and lively product grid.  
 **Tech:** HTML, CSS, JavaScript  
-**Live:** [shopping-store-rho.vercel.app](https://shopping-store-rho.vercel.app) | [GitHub](https://github.com/Aimzaa/Shopping-Store)
+**Live:** [shopping-store-rho.vercel.app](https://shopping-store-rho.vercel.app) | [GitHub](https://github.com/AimanKhanDev/Shopping-Store)
 
 ---
 
 ### Lumiere-food
 Warm, appetising restaurant site with rich media sections and polished responsive layouts.  
 **Tech:** HTML, CSS, JavaScript  
-**Live:** [lumiere-food-umber.vercel.app](https://lumiere-food-umber.vercel.app) | [GitHub](https://github.com/Aimzaa/Lumiere-food)
+**Live:** [lumiere-food-umber.vercel.app](https://lumiere-food-umber.vercel.app) | [GitHub](https://github.com/AimanKhanDev/Lumiere-food)
 
 ---
 
 ### Hackathon2 — Evolution of Todo
 Full-stack AI todo platform: CLI tool → web platform with FastAPI backend, Next.js frontend, AI chatbot, MCP server, Dockerised deployment.  
 **Tech:** Python, FastAPI, Next.js, Docker, MCP  
-**GitHub:** [github.com/Aimzaa/Hackathon2-Evolution-of-Todo](https://github.com/Aimzaa/Hackathon2-Evolution-of-Todo)
+**GitHub:** [github.com/AimanKhanDev/Hackathon2-Evolution-of-Todo](https://github.com/AimanKhanDev/Hackathon2-Evolution-of-Todo)
 
 ---
 
 ### Career-Agent
 AI career advisor chatbot on Chainlit + Gemini, guiding users through career decisions with conversational prompting.  
 **Tech:** Python, Chainlit, Gemini API  
-**GitHub:** [github.com/Aimzaa/Career-Agent](https://github.com/Aimzaa/Career-Agent)
+**GitHub:** [github.com/AimanKhanDev/Career-Agent](https://github.com/AimanKhanDev/Career-Agent)
 
 ---
 
 ### Travel-Agent
 AI travel planning chatbot on Chainlit + Gemini for conversational trip planning.  
 **Tech:** Python, Chainlit, Gemini API  
-**GitHub:** [github.com/Aimzaa/Travel-Agent](https://github.com/Aimzaa/Travel-Agent)
+**GitHub:** [github.com/AimanKhanDev/Travel-Agent](https://github.com/AimanKhanDev/Travel-Agent)
 
 ---
 

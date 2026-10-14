@@ -1,9 +1,9 @@
 export const site = {
   name: "Aiman Khan",
-  handle: "Aimzaa",
+  handle: "AimanKhanDev",
   role: "Web Developer & AI Agent Builder",
   email: "ak0560439@gmail.com",
-  github: "https://github.com/Aimzaa",
+  github: "https://github.com/AimanKhanDev",
   location: "Karachi, Pakistan",
 };
 
@@ -28,7 +28,7 @@ export const projects: Project[] = [
     description:
       "A premium furniture brand storefront with a mega-navigation, animated split-hero, magazine-style product grid, editorial showcase and a fully interactive auth flow with OTP and admin panel.",
     tech: ["HTML", "CSS", "JavaScript", "Vercel"],
-    repo: "https://github.com/Aimzaa/Decor-Furnish",
+    repo: "https://github.com/AimanKhanDev/Decor-Furnish",
     live: "https://decor-furnish.vercel.app",
     image: "/projects/decor-furnish.jpg",
     featured: true,
@@ -42,7 +42,7 @@ export const projects: Project[] = [
     description:
       "A Retrieval-Augmented Generation system that answers questions over the Physical AI & Humanoid Robotics book using Qwen embeddings, Qdrant vector search, OpenRouter LLMs and a FastAPI backend with a Docusaurus frontend.",
     tech: ["Python", "FastAPI", "Qdrant", "Qwen", "OpenRouter", "Docusaurus"],
-    repo: "https://github.com/Aimzaa/physical-ai-humanoid-robotics-book",
+    repo: "https://github.com/AimanKhanDev/physical-ai-humanoid-robotics-book",
     live: "https://physical-ai-humanoid-robotics-book-pi-six.vercel.app",
     image: "/projects/physical-ai-book.jpg",
     featured: true,
@@ -56,7 +56,7 @@ export const projects: Project[] = [
     description:
       "A Chainlit chat application that runs a fantasy adventure game through cooperating AI agents — narrator, monster and item agents — with stateful turn-based logic powered by the Gemini API.",
     tech: ["Python", "Chainlit", "Gemini API"],
-    repo: "https://github.com/Aimzaa/Game-Agent",
+    repo: "https://github.com/AimanKhanDev/Game-Agent",
     featured: true,
     accent: "from-[#8b5cf6] to-[#ec4899]",
     meta: "2026 · AI Agent",
@@ -68,7 +68,7 @@ export const projects: Project[] = [
     description:
       "A sophisticated dark-mode landing experience for a fragrance brand — expressive typography, immersive hero and refined product storytelling.",
     tech: ["HTML", "CSS", "JavaScript"],
-    repo: "https://github.com/Aimzaa/Noire-Sage-Fragrance",
+    repo: "https://github.com/AimanKhanDev/Noire-Sage-Fragrance",
     live: "https://noire-sage-fragrance.vercel.app",
     featured: true,
     accent: "from-[#111] to-[#444]",
@@ -81,7 +81,7 @@ export const projects: Project[] = [
     description:
       "An e-commerce experience backed by a Node.js server and serverless Vercel config, pairing a hand-crafted storefront with real API behaviour.",
     tech: ["HTML", "CSS", "Node.js", "Vercel"],
-    repo: "https://github.com/Aimzaa/Nexus-Store",
+    repo: "https://github.com/AimanKhanDev/Nexus-Store",
     live: "https://nexus-store-lime-seven.vercel.app",
     image: "/projects/nexus.jpg",
     featured: true,
@@ -95,7 +95,7 @@ export const projects: Project[] = [
     description:
       "A calm, editorial skincare storefront with elegant product presentation and smooth interactive sections.",
     tech: ["HTML", "CSS", "JavaScript"],
-    repo: "https://github.com/Aimzaa/Bloom-SkinCare",
+    repo: "https://github.com/AimanKhanDev/Bloom-SkinCare",
     live: "https://bloom-skin-care.vercel.app",
     image: "/projects/bloom.jpg",
     featured: true,
@@ -109,7 +109,7 @@ export const projects: Project[] = [
     description:
       "A conversion-focused shopping storefront with category flows and a lively product grid.",
     tech: ["HTML", "CSS", "JavaScript"],
-    repo: "https://github.com/Aimzaa/Shopping-Store",
+    repo: "https://github.com/AimanKhanDev/Shopping-Store",
     live: "https://shopping-store-rho.vercel.app",
     image: "/projects/shopping.jpg",
     accent: "from-[#06b6d4] to-[#8b5cf6]",
@@ -122,7 +122,7 @@ export const projects: Project[] = [
     description:
       "A warm, appetising restaurant site with rich media sections and polished responsive layouts.",
     tech: ["HTML", "CSS", "JavaScript"],
-    repo: "https://github.com/Aimzaa/Lumiere-food",
+    repo: "https://github.com/AimanKhanDev/Lumiere-food",
     live: "https://lumiere-food-umber.vercel.app",
     image: "/projects/lumiere.jpg",
     accent: "from-[#f97316] to-[#eab308]",
@@ -135,7 +135,7 @@ export const projects: Project[] = [
     description:
       "A multi-phase project taking a todo app from a CLI tool to a full web platform — FastAPI backend, Next.js frontend, AI chatbot, MCP server and Dockerised deployment.",
     tech: ["Python", "FastAPI", "Next.js", "Docker", "MCP"],
-    repo: "https://github.com/Aimzaa/Hackathon2-Evolution-of-Todo",
+    repo: "https://github.com/AimanKhanDev/Hackathon2-Evolution-of-Todo",
     accent: "from-[#0ea5e9] to-[#6366f1]",
     meta: "2026 · Full-stack",
     visual: "tech",
@@ -146,7 +146,7 @@ export const projects: Project[] = [
     description:
       "A Chainlit chatbot built on the Gemini API that guides users through career decisions with conversational prompting.",
     tech: ["Python", "Chainlit", "Gemini API"],
-    repo: "https://github.com/Aimzaa/Career-Agent",
+    repo: "https://github.com/AimanKhanDev/Career-Agent",
     accent: "from-[#f59e0b] to-[#ef4444]",
     meta: "2026 · AI Agent",
     visual: "agent",
@@ -157,7 +157,7 @@ export const projects: Project[] = [
     description:
       "A Chainlit travel-planning assistant powered by the Gemini API that helps users plan trips conversationally.",
     tech: ["Python", "Chainlit", "Gemini API"],
-    repo: "https://github.com/Aimzaa/Travel-Agent",
+    repo: "https://github.com/AimanKhanDev/Travel-Agent",
     accent: "from-[#10b981] to-[#06b6d4]",
     meta: "2026 · AI Agent",
     visual: "agent",
@@ -168,7 +168,7 @@ export const projects: Project[] = [
     description:
       "Autonomous AI employee platform featuring multi-channel watchers (Gmail, WhatsApp), FastMCP tool servers, and Human-in-the-Loop (HITL) approval workflows.",
     tech: ["Autonomous AI", "Agentic Workflows", "FastMCP", "HITL Architecture", "Python", "Event-Driven Watchers"],
-    repo: "https://github.com/Aimzaa/Hackathon-0-Digital-FTE",
+    repo: "https://github.com/AimanKhanDev/Hackathon-0-Digital-FTE",
     live: "https://huggingface.co/spaces/AimanDigital/Digital-FTE",
     featured: true,
     accent: "from-[#8b5cf6] to-[#06b6d4]",

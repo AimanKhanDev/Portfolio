@@ -40,6 +40,6 @@ src/
 
 ## Notes
 
-- All projects shown are real, public repositories from [github.com/Aimzaa](https://github.com/Aimzaa).
+- All projects shown are real, public repositories from [github.com/AimanKhanDev](https://github.com/AimanKhanDev).
 - Project visuals are CSS-crafted previews (no screenshots were available).
 - Respects `prefers-reduced-motion` for both CSS and JS animations.

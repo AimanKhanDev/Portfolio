@@ -172,7 +172,7 @@ export default function ProjectVisual({
             label={
               project.live
                 ? project.live.replace(/^https?:\/\//, "")
-                : "github.com/Aimzaa"
+                : "github.com/AimanKhanDev"
             }
             accent="bg-black/45 border-b border-white/10"
           />
@@ -191,7 +191,7 @@ export default function ProjectVisual({
         className="absolute inset-0 bg-gradient-to-t from-black/70 via-transparent to-black/20"
         aria-hidden
       />
-      <BrowserChrome label="github.com/Aimzaa" accent="border-b border-line/70 bg-black/30" />
+      <BrowserChrome label="github.com/AimanKhanDev" accent="border-b border-line/70 bg-black/30" />
       <div className="relative min-h-[150px]">
         <Visual />
       </div>

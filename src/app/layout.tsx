@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     description:
       "Premium web experiences and AI-powered applications by Aiman Khan.",
     type: "website",
-    url: "https://github.com/Aimzaa",
+    url: "https://github.com/AimanKhanDev",
   },
   twitter: {
     card: "summary",
